@@ -1,5 +1,4 @@
 <h1 align="center">Hi! I'm Fede</h1>
-<h3 align="center">Front-End Developer. Based in Montevideo</h3>
 
 - 🌱 I’m currently learning **FullStack Development**
 
