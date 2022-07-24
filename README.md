@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
 <h3 align="center">A Backend Dev in process</h3>
 
-- 🌱 I’m currently learning **backend development, using Nodejs + Express + MongoDB**
+- 🌱 I’m currently learning **Fullstack Development, with focus on Backend. MERN stack FTW**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
