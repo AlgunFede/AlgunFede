@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning **Fullstack Development, with focus on Backend.**
 
 <p>One of my biggest motivations is learn. That's why I started to self-taught, seeking tutorials about computer science (as CS50) and courses in more specifiec technologies (as JavaAscript, Node.js, MongoDB, Postman, etc). 
-1 year ago I started a computer engineering. Since then I have not stopped to keep working on my skills and learning to land on my first developer job.
+A year ago I started a computer engineering to complement my knowledge basement, since then I have not stopped to keep working on my skills.</p>
 
-I'm glad to join challenging teams, which can help me keep professionall growing.</p>
+<p>I'm glad to join challenging teams, which can help me keep professionall growing.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
