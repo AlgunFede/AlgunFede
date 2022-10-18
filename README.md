@@ -1,10 +1,15 @@
 <h1 align="center">Hi! I'm Federico</h1>
 <h3 align="center">A Backend Dev in process</h3>
 
-- 🌱 I’m currently learning **Fullstack Development, with focus on Backend.**
+- 🌱 I’m currently learning **Backend Development.**
 
-<p>One of my biggest motivations is learn. That's why I started to self-taught, seeking tutorials about computer science (as CS50) and courses in more specifiec technologies (as JavaAscript, Node.js, MongoDB, Postman, etc). 
-A year ago I started a computer engineering to complement my knowledge basement, since then I have not stopped to keep working on my skills.</p>
+<p>One of my biggest motivations is learn. That's why I began to train myself in a self-taught way in software development.
+
+On my way, I learned technologies such as JavaAscript, React, Node.js, Express, MongoDB, Postman, Jest, etc. 
+
+I'm glad to join challenging teams, which can help me keep professionall growing.
+
+I-m currently studying a Computer Science degree in Universidad de la República.</p>
 
 <p>I'm glad to join challenging teams, which can help me keep professionall growing.</p>
 
