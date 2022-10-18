@@ -11,8 +11,6 @@ I'm glad to join challenging teams, which can help me keep professionall growing
 
 I-m currently studying a Computer Science degree in Universidad de la República.</p>
 
-<p>I'm glad to join challenging teams, which can help me keep professionall growing.</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/federico-alvez-santos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/federico-alvez-santos/" height="30" width="40" /></a>
