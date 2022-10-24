@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend Development.**
 
-<p>One of my biggest motivations is learn. That's why I began to train myself in a self-taught way in software development.
+<p>Learn is one of my biggest motivations. That's why I started to train myself in a self-taught way in software development.
 
 On my way, I learned technologies such as JavaAscript, React, Node.js, Express, MongoDB, Postman, Jest, etc. 
 
